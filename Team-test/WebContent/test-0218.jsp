@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-//추가 파일 .jsp 만들고 주석 달기.
+<!--파일 .jsp 만들고 주석 달기.  -->
 </body>
 </html>
